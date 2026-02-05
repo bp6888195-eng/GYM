@@ -39,9 +39,9 @@
             this.label1.Location = new System.Drawing.Point(463, 166);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(85, 52);
+            this.label1.Size = new System.Drawing.Size(161, 52);
             this.label1.TabIndex = 0;
-            this.label1.Text = "XD";
+            this.label1.Text = "prueva";
             // 
             // button1
             // 
@@ -59,7 +59,7 @@
             this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
